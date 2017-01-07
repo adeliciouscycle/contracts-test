@@ -1,6 +1,4 @@
-# Test comment
-
-This is a contract between
+__This is a contract between__
 
 A 
 
@@ -8,6 +6,13 @@ and
 
 B.
 
+__Background__
+
+1. A and B are adventurous people who like entering into spurious contracts.
+
+1. A and B wish to experiment with the boundless possibilities of GitHub.
+
+__ The Parties now agree:__
 
 1. A will do things to B.
 
