@@ -12,7 +12,7 @@ __Background__
 
 1. A and B wish to experiment with the boundless possibilities of GitHub.
 
-__ The Parties now agree:__
+__The Parties now agree:__
 
 1. A will do things to B.
 
